@@ -1,0 +1,79 @@
+.modal__overlay{
+	display:none;
+	position:fixed;
+	z-index:9998;
+	top:0;
+	left:0;
+	height:100%;
+	width:100%;
+	background:#000
+}
+#modal__container{
+	display: none
+}
+.modal__container{
+	display: none;
+	color: #333;
+	padding:15px;
+	border:1px solid #1a3d6e;
+	border-radius: 4px;
+	margin: 0;
+	background:#f9f9f9;
+	box-shadow: 0 10px 25px rgba(0, 0, 0, 0.5);
+}
+.modal__header{
+	font: normal 13px/20px "Helvetica Neue",Helvetica,Arial,sans-serif;
+    margin: 0;
+    padding:0;
+}
+.modal__content{
+	max-height:500px;
+	overflow-x:hidden;
+	overflow-y:auto;
+}
+.modal__content--hasIframe{
+	overflow-y:visible;
+	max-height:inherit
+}
+.modal__content__iframe{
+	width:98%;
+	margin:.618em auto
+}
+.modal__content > {
+	margin:.618em auto
+}
+#modal__close,
+.modal__close,
+#modal__close.modal__close{
+	display:block;
+	float:right;
+	position:relative;
+	top:-24px;
+	left:24px;
+    text-decoration: none;
+    text-align: center;
+	color:#193d63;
+	font-weight:bold;
+    line-height: 1.8;
+	padding:.25em;
+	width:36px;
+	height:36px;
+	border-radius:50%;
+	background:white !important;
+	background-position:-265px -19px;
+	background-repeat:no-repeat;
+	overflow:hidden;
+}
+#modal__close.modal__close:hover,
+#modal__close.modal__close:focus,
+#modal__close.modal__close:active{
+	color:#193d63;
+	text-decoration:none;
+	background-color: none !important ;
+	background-image:url('/img/fancybox_sprite.png') !important;
+	background-position:-265px -59px;
+	background-repeat:no-repeat;
+	overflow:hidden
+}
+.modal__close:active{
+	box-shadow:none}

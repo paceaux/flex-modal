@@ -1,0 +1,46 @@
+html,
+body {
+  font-size: 1em;
+  font-size: 1rem;
+  line-height: 1.618;
+}
+p,
+ul,
+li,
+a,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+  padding: 0;
+}
+[contenteditable] {
+  display: block;
+  outline: 1px dotted #808080;
+}
+.list {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: stretch;
+}
+.list__item {
+  display: flex;
+  flex-basis: calc(32% - .618rem);
+  flex-grow: 1;
+  list-style-type: none;
+  border: 1px solid #ccc;
+  margin: 0.618rem;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.list__item__link {
+  text-decoration: none;
+  color: #285978;
+  display: block;
+  padding: 0.618em;
+}

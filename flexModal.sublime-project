@@ -1,0 +1,10 @@
+{
+	"folders":
+	[
+		{
+			"path": "/Users/franktaylor/Dropbox/Google Drive/Web Projects/flexModal",
+            "file_exclude_patterns": ["*.sublime-project", "*.sublime-workspace"]
+
+		}
+	]
+}

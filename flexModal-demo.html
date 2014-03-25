@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>flexModal: Demo</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="css/flexModal.css">
+        <link rel="stylesheet" href="css/demo.css">
+    </head>
+    <body>
+
+<h1 class="h1"><code>flexModal</code> Examples</h1>
+<h1>Simple Examples</h1>
+<ul class="list examples">
+    <li class="list__item">
+        <p>Close button removed</p>
+        <code>
+data-modal='{"closebutton" : "false"}'
+        </code>
+        <a class="list__item__link" href="#veggies" data-modal='{"closebutton" : "false"}'>Click Me</a>
+    </li>
+    <li class="list__item">
+        <p>Close button Present</p>
+<code>data-modal='{"closebutton" : "true"}'
+</code>
+        <a class="list__item__link" href="#veggies" data-modal='{"closebutton" : "true"}'>Click Me</a>
+    </li>
+    <li class="list__item">
+        <p>
+            Changed the overlay. 
+        </p>
+<code>data-modal='{ "overlay": "0.1"}'</code>
+        <a class="list__item__link" href="#content" data-modal='{ "overlay": "0.1"}'>Click Me</a>
+    </li>
+    <li class="list__item">
+        <p>Sizing Auto
+        </p>
+<code>data-modal='{"sizing" : "auto"}'</code>
+        <a class="list__item__link" href="#veggies" data-modal='{"sizing" : "auto"}'>Click Me</a>
+    </li>
+    <li class="list__item">
+        <p>Src is set in data-modal</p>
+<code>data-modal='{"src" : "#content"}'</code>
+        <a class="list__item__link" data-modal='{"src" : "#content"}'>Click Me</a>
+    </li>
+    <li class="list__item">
+        <p>Src set in data-modal, top also set </p>
+<code>data-modal='{"top": "100px", "src" : "#content"}'</code>
+        <a class="list__item__link" data-modal='{"top": "100", "src" : "#content"}'>Click Me</a>
+    </li>
+    <li class="list__item">
+        <p>An Href and a seamless iframe</p>
+        <code>
+href="http://nationwide.com"
+data-modal='{"iframe": {"seamless": "true"} }'
+        </code>
+        <a class="list__item__link" href="http://nationwide.com" data-modal='{"iframe": {"seamless": "true"} }'>Click me</a>
+    </li>
+    <li class="list__item">
+        <p>Multiple Properties </p>
+        <code>
+        {
+            "top": "20px",
+             "overlay": "0.5",
+             "sizing": {
+                "height" : "700",
+                 "width" : "500"
+                }, 
+            "src" : "#content"
+         }
+        </code>
+        <a class="list__item__link" data-modal='{"top": "20", "overlay": "0.5","sizing": {"height" : "700", "width" : "500"}, "src" : "#content"}'>Click Me</a>
+    </li>
+</ul>
+<h2>Using multiple attributes</h2>
+<ul class="list">
+    <li class="list__item">
+        <p>Multipled Attributes:
+        </p>
+        <code>
+            data-modal='{ "overlay": "0.5"}'
+            data-modal-sizing="auto"
+            data-modal-closebutton="false"
+        </code>
+        <a class="list__item__link" href="#veggies" rel="leanModal" data-modal='{"overlay": "0.5"}' data-modal-sizing="auto" data-modal-closebutton="false">Click Me</a>
+    </li>
+    <li class="list__item">
+        <p>A title and a scrolling iframe. with autosizing. Title in own attr</p>
+        <a class="list__item__link" href="http://www.nationwide.com" data-modal-title="Heres a test title"
+        data-modal-sizing='{"height": "auto"}' 
+        data-modal='{ "iframe": {"scrolling" : "auto" }}'>Click Me</a>
+    </li>
+    <li class="list__item">
+        <p>href is a media manager video. title is set, and iframe is seamless, as own property. </p>
+        <a class="list__item__link" href="http://nationwide.dist.sdlmedia.com/vms/distribution/?o=E7E0EC8B-2D34-4F80-A46B-FC9BB90280CD"
+        data-modal='{"title": "An iframed video from media manager"}' data-modal-iframe='{"seamless" : "seamless"}'>Click Me</a>
+    </li>
+    <li class="list__item">
+        <p>Media manager video. Title is set, along with src. It's seamless.  </p>
+        <a class="list__item__link" data-modal='{"title": "Media manager Video", "src":"http://nationwide.dist.sdlmedia.com/vms/distribution/?o=E7E0EC8B-2D34-4F80-A46B-FC9BB90280CD", "iframe" : {"seamless" : "seamless"}}'>Video</a>
+    </li>
+</ul>
+<button class="video openModal" href="http://nationwide.dist.sdlmedia.com/vms/distribution/?o=25072CAB-C6FA-4FAE-97ED-150A899C3AE6">View Video</button>
+
+<div id="veggies" class="modal__container">
+    <h3 class="modal__header"> Menu content</h3>
+    <div class="modal__content">
+        <p>
+            Veggies sunt bona vobis, proinde vos postulo esse magis quandong wattle seed kombu
+            silver beet turnip courgette turnip greens coriander caulie salad lentil parsnip
+            daikon seakale wakame pumpkin parsley.
+        </p>
+        <p>Kale parsnip turnip greens lotus root black-eyed pea carrot dulse chard gumbo amaranth
+            brussels sprout watercress aubergine bush tomato. Chickpea chicory green bean
+            water chestnut taro beetroot cucumber gram pea sprouts pea radish tomato cauliflower.
+            Sierra leone bologi rutabaga amaranth broccoli tomatillo collard greens broccoli
+            rabe corn seakale.
+        </p>
+
+    </div>
+</div>
+<div id="content" class="modal__container">
+    <h3 class="modal__header">Sites content</h3>
+    <div class="modal__content">
+        <p>Some other content that I can see an play with</p>
+                <p>Kale parsnip turnip greens lotus root black-eyed pea carrot dulse chard gumbo amaranth
+            brussels sprout watercress aubergine bush tomato. Chickpea chicory green bean
+            water chestnut taro beetroot cucumber gram pea sprouts pea radish tomato cauliflower.
+            Sierra leone bologi rutabaga amaranth broccoli tomatillo collard greens broccoli
+            rabe corn seakale.
+        </p>
+    </div>
+</div>   
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
+        <script src="js/flexModal.plugin.js"></script>
+        <script type="text/javascript">
+$('[data-modal]').flexModal();
+        </script>
+    </body>
+</html>

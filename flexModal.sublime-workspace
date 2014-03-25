@@ -1,0 +1,1241 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"proj",
+				"projectLoad"
+			],
+			[
+				"pro",
+				"projectSave"
+			],
+			[
+				"mc",
+				"mcsandyUI"
+			],
+			[
+				"js-proj",
+				"js-projectLoad"
+			],
+			[
+				"und",
+				"undefined"
+			],
+			[
+				"add",
+				"addEvents"
+			],
+			[
+				"clear",
+				"clearContent"
+			],
+			[
+				"flex",
+				"flex"
+			],
+			[
+				"d",
+				"dt	Tag"
+			],
+			[
+				"data",
+				"dataTransfer"
+			],
+			[
+				"handleDrag",
+				"handleDragStart"
+			],
+			[
+				"down",
+				"downloadObj"
+			],
+			[
+				"dow",
+				"downloadObj"
+			],
+			[
+				"type",
+				"typeString"
+			],
+			[
+				"downlo",
+				"downloadType"
+			],
+			[
+				"mcs",
+				"mcsandy"
+			],
+			[
+				"q",
+				"querySelector"
+			],
+			[
+				"handleFile",
+				"handleFileDragout"
+			],
+			[
+				"editor",
+				"editorFieldsets"
+			],
+			[
+				"inn",
+				"innerHTML"
+			],
+			[
+				"fuc",
+				"function"
+			],
+			[
+				"toggle",
+				"toggleModal"
+			],
+			[
+				"togl",
+				"toggleClass	.toggleClass()"
+			],
+			[
+				"XML",
+				"xmlhttp"
+			],
+			[
+				"resp",
+				"response"
+			],
+			[
+				"response",
+				"responseText"
+			],
+			[
+				"app",
+				"appVersion"
+			],
+			[
+				"append",
+				"appendChild"
+			],
+			[
+				"read",
+				"readyStateChange"
+			],
+			[
+				"pre",
+				"preAssets"
+			],
+			[
+				"git",
+				"github"
+			],
+			[
+				"gi",
+				"githubJS"
+			],
+			[
+				"load",
+				"loadScript"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"ali",
+				"align-self"
+			],
+			[
+				"bind",
+				"bindUiEvents"
+			],
+			[
+				"remove",
+				"removeParent"
+			],
+			[
+				"file",
+				"fileUploads"
+			],
+			[
+				"clone",
+				"cloneInputs"
+			],
+			[
+				"has",
+				"hasOwnProperty"
+			],
+			[
+				"key",
+				"keyCode"
+			],
+			[
+				"js",
+				"js-shrink"
+			],
+			[
+				"stop",
+				"stopPropagation"
+			],
+			[
+				"handle",
+				"handleFileUpload"
+			],
+			[
+				"query",
+				"querySelectorAll"
+			],
+			[
+				"ke",
+				"keyMaps"
+			],
+			[
+				"sa",
+				"saveMap"
+			],
+			[
+				"flas",
+				"flashTimeout"
+			],
+			[
+				"flash",
+				"flashSaved"
+			],
+			[
+				"active",
+				"activeGreen"
+			],
+			[
+				"fieldset",
+				"fieldset__wrapper"
+			],
+			[
+				"handl",
+				"handleHash"
+			],
+			[
+				"fu",
+				"functions"
+			],
+			[
+				"up",
+				"updateCtrls"
+			],
+			[
+				"nv",
+				"navigator"
+			],
+			[
+				"fied",
+				"fieldset__wrapper"
+			],
+			[
+				"vis",
+				"visible"
+			],
+			[
+				"exj",
+				"exJsInput"
+			],
+			[
+				"external",
+				"externalJSSet"
+			],
+			[
+				"externalJs",
+				"externalJSSet"
+			],
+			[
+				"prep",
+				"prepareExternalJS"
+			],
+			[
+				"externaljs",
+				"externalJSSet"
+			],
+			[
+				"externa",
+				"externalJS"
+			],
+			[
+				"ex",
+				"exJs"
+			],
+			[
+				"exter",
+				"externalJS"
+			],
+			[
+				"index",
+				"indexOf"
+			],
+			[
+				"ind",
+				"indexOf"
+			],
+			[
+				"getS",
+				"getSelectedLibs"
+			],
+			[
+				"fiel",
+				"fieldset__field"
+			],
+			[
+				"fie",
+				"fieldset"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"quer",
+				"querySelectorAll"
+			],
+			[
+				"la",
+				"labels"
+			],
+			[
+				"field",
+				"fieldset__label"
+			],
+			[
+				"lib",
+				"libFieldset"
+			],
+			[
+				"exe",
+				"externalJS"
+			],
+			[
+				"create",
+				"createElement"
+			],
+			[
+				"download",
+				"downloadContent"
+			],
+			[
+				"js-project",
+				"js-projectDownload"
+			],
+			[
+				"keyUp",
+				"keyUpCounter"
+			],
+			[
+				"js-p",
+				"js-projectLoad"
+			],
+			[
+				"acti",
+				"activeHeadingColor"
+			],
+			[
+				"ina",
+				"inactiveHeadingColor"
+			],
+			[
+				"smoo",
+				"smooth"
+			],
+			[
+				"stan",
+				"standardGreen"
+			],
+			[
+				"st",
+				"standardGreen"
+			],
+			[
+				"butt",
+				"buttonColor"
+			],
+			[
+				"headi",
+				"headingColor"
+			],
+			[
+				"in",
+				"inactiveHeadingColor"
+			],
+			[
+				"border",
+				"borderColor"
+			],
+			[
+				"smooth",
+				"smooth-out"
+			],
+			[
+				"but",
+				"buttonColor"
+			],
+			[
+				"body",
+				"bodyColor"
+			],
+			[
+				"head",
+				"headingColor"
+			],
+			[
+				"html",
+				"htmlBuild"
+			],
+			[
+				"post",
+				"postAssets"
+			],
+			[
+				"lo",
+				"loadNpmTasks"
+			],
+			[
+				"mp",
+				"mpGlobal__footer__editor"
+			],
+			[
+				"m",
+				"mpGlobal__footer"
+			],
+			[
+				"unc",
+				"unconvertHash"
+			],
+			[
+				"innh",
+				"innerHTML"
+			],
+			[
+				"set",
+				"setHash"
+			],
+			[
+				"editor__field",
+				"editor__fieldsetWrap"
+			],
+			[
+				"conver",
+				"convertHash"
+			],
+			[
+				"sav",
+				"saveContent"
+			],
+			[
+				"save",
+				"saveMap"
+			],
+			[
+				"controls__edit",
+				"controls__editWrapper"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"projec",
+				"projectName"
+			],
+			[
+				"project",
+				"projectField"
+			],
+			[
+				"js-projec",
+				"js-projectDel"
+			],
+			[
+				"lod",
+				"loadedParts"
+			],
+			[
+				"proje",
+				"projectKey"
+			],
+			[
+				"online",
+				"onlineState"
+			],
+			[
+				"mca",
+				"mcsandyUI"
+			],
+			[
+				"controls__label",
+				"controls__labelWrapper"
+			],
+			[
+				"stor",
+				"storageLength"
+			],
+			[
+				"bo",
+				"blobData"
+			],
+			[
+				"blob",
+				"blobData"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"po",
+				"projectName"
+			],
+			[
+				"prepare",
+				"prepareResult"
+			],
+			[
+				"js-pr",
+				"js-projectSave"
+			],
+			[
+				"fo",
+				"footer	Tag"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"mcsandyHeader__controls",
+				"mcsandyHeader__controls__control"
+			],
+			[
+				"upd",
+				"updateCSS"
+			],
+			[
+				"js-targ",
+				"js-targetCSS"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/JSLint/JSLint.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"git",
+				"GitHub Flavored Markdown: Preview"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"lint",
+				"JSLint"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"min",
+				"Minify::Minify File"
+			],
+			[
+				"mini",
+				"Minify::Minify File"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"type",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"javascript",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"js",
+				"Set Syntax: Java Server Page (JSP)"
+			],
+			[
+				"appl",
+				"Set Syntax: AppleScript"
+			],
+			[
+				"stylus",
+				"Set Syntax: Stylus"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"sty",
+				"Set Syntax: Stylus"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"prett",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"jsp",
+				"Set Syntax: Java Server Page (JSP)"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"CSS",
+				"Set Syntax: CSS"
+			],
+			[
+				"jquer",
+				"Snippet: Google AJAX Libraries: jQuery UI"
+			],
+			[
+				"jq",
+				"Snippet: Google AJAX Libraries: jQuery UI"
+			],
+			[
+				"Snippet: ",
+				"Snippet: IE-Conditionals"
+			],
+			[
+				"javascri",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"tidy",
+				"TidyHTML"
+			],
+			[
+				"tid",
+				"Tidy HTML"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"json",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"pre",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"htmlpretty",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"c#",
+				"Set Syntax: C#"
+			],
+			[
+				"jslin",
+				"JSLint: Run JSLint"
+			],
+			[
+				"jslint",
+				"JSLint: Run JSLint"
+			],
+			[
+				"forma",
+				"Format: Javascript"
+			],
+			[
+				"ja",
+				"Format: Javascript"
+			],
+			[
+				"j",
+				"Format: Javascript"
+			],
+			[
+				"html5",
+				"Set Syntax: HTML5"
+			],
+			[
+				"C#",
+				"Set Syntax: C#"
+			],
+			[
+				"set",
+				"Set Syntax: C#"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML5"
+			],
+			[
+				"",
+				"Set Syntax: AppleScript"
+			],
+			[
+				"set ",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"h",
+				"Set Syntax: HTML5"
+			],
+			[
+				"c #",
+				"Set Syntax: C#"
+			],
+			[
+				"pret",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"jsl",
+				"Preferences: JSLint Settings – Default"
+			],
+			[
+				"jsli",
+				"JSLint: Run JSLint"
+			],
+			[
+				"set syntax",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"lorem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"lor",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"no",
+				"Snippet: normalize"
+			],
+			[
+				"mod",
+				"Snippet: jquery-modr"
+			],
+			[
+				"clos",
+				"Snippet: Wrap Selection in Open/Close Tag"
+			],
+			[
+				"reset",
+				"Snippet: reset"
+			],
+			[
+				"f",
+				"Format: Javascript"
+			],
+			[
+				"form",
+				"Format: Javascript"
+			]
+		],
+		"width": 503.0
+	},
+	"console":
+	{
+		"height": 115.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": true,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/McSandy/mcsandy.sublime-project",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/McSandy/mcsandy.html",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/McSandy/preAssets/html/header.html",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/McSandy/preAssets/js/mcsandytools.js",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/McSandy/preAssets/js/mcsandyApp.js",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/McSandy/preAssets/mcsandy.js",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/McSandy/preAssets/js/mcsandy.js",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/McSandy/postAssets/mcsandy.min.css",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/McSandy/postAssets/mcsandy.css",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/McSandy/preAssets/js/store.js",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/McSandy/Gruntfile.js",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/McSandy/preAssets/pre-mcsandy.html",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/McSandy/preAssets/js/filesaver.js",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/McSandy/server.js",
+		"/Users/franktaylor/Dropbox/Google Drive/Tahzoo/Nationwide-Inside/Inside Demo/static/media/nib/flex.styl",
+		"/Users/franktaylor/Dropbox/Google Drive/Tahzoo/Nationwide-Inside/Inside Demo/static/media/Inside3/sprite-vars.styl",
+		"/Users/franktaylor/Dropbox/Google Drive/Tahzoo/Nationwide-Inside/Inside Demo/static/media/Inside3/300-footer.styl",
+		"/Users/franktaylor/Dropbox/Google Drive/Tahzoo/Nationwide-Inside/Inside Demo/static/media/Inside3/200-nav.styl",
+		"/Users/franktaylor/Dropbox/Google Drive/Tahzoo/Nationwide-Inside/Inside Demo/static/media/Inside3/ie8.styl",
+		"/Users/franktaylor/Dropbox/Google Drive/Tahzoo/Nationwide-Inside/Inside Demo/static/Gruntfile.js",
+		"/Users/franktaylor/Dropbox/Google Drive/Tahzoo/Nationwide-Inside/Inside Demo/static/media/Inside3/ie9.styl",
+		"/Users/franktaylor/Dropbox/Google Drive/Tahzoo/Nationwide-Inside/Inside Demo/static/media/Inside3/006-tabPage.styl",
+		"/Users/franktaylor/Dropbox/Google Drive/Tahzoo/Nationwide-Inside/Inside Demo/static/media/Inside3/vars.styl",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/McSandy/package.json",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/McSandy/postAssets/pre-index.html",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/McSandy/index.html",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/McSandy/postAssets/mcsandy.html",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/McSandy/preAssets/mcsandy.styl",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/McSandy/mcsandy.min.css",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/McSandy/preAssets/html/footer.html",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/McSandy/postAssets/html/footer.html",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/McSandy/postAssets/html/header.html",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/McSandy/postAssets/html/main.html",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/McSandy/preAssets/index.html",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/McSandy/preAssets/mcsandy.html",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/McSandy/assets/mcsandy.css",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/McSandy/mcsandy.css",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/McSandy/mcsandy.min.js",
+		"/Users/franktaylor/Dropbox/Google Drive/Tahzoo/NW-planned-sponsor/find-your-path-accordions.html",
+		"/Users/franktaylor/Dropbox/Google Drive/Tahzoo/NW-planned-sponsor/js/nw-plugin.js",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/public/assets/js/demo/cssom.js",
+		"/Users/franktaylor/Desktop/greeter.ts",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/public/assets/js/demo/editor.js",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/README.md",
+		"/Users/franktaylor/Desktop/test.css",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/public/index.html",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/public/two-col.html",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/public/tasks.html",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/public/one-col.html",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/public/assets/css/001-brand/002-header.styl",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/public/partials/np-navMenu.html",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/public/partials/np-navItem.html",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/bower_components/ng-file-upload/angular-file-upload.js",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/bower_components/ng-file-upload/README.md",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/app/brand.js",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/public/app/controllers.js",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/public/partials/wp-sidebar.html",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/public/assets/css/vars.styl",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/public/assets/css/010-demo/cssom.styl",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/Gruntfile.js",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/public/assets/css/003-components/flex-index.styl",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/public/app/services.js",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/tz-skills-app/app/skills.js",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/public/assets/css/003-components/007-article-list.styl",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/public/assets/css/010-demo/controls.styl",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/public/assets/css/003-components/008-content-header.styl",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/public/assets/css/002-layout/002-standard-layout.styl",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/public/partials/cp-table.html",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/public/editor.html",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/public/partials/cp-banner.html",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/public/assets/css/002-layout/001-flex-layout.styl",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/public/assets/css/002-layout/002-standard-layout.css",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/public/assets/css/003-components/006-article.styl",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/public/partials/cp-articleList.html",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/public/assets/css/003-components/index.styl",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/public/assets/css/003-components/007-flex-article-list.styl",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/public/app/directives.js",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/public/partials/fp-checkbox.html",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/public/assets/css/001-brand/003-nav.styl",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/public/app/filters.js",
+		"/Users/franktaylor/Dropbox/Google Drive/Tahzoo/Nationwide-3.5/repo/tables-data-2.htm",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/public/partials/cp-article.html",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/public/forms.html",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/public/partials/cp-mainHeader.html",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/public/partials/wp-main.html",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/public/partials/section-header.html",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/public/app/app.js",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/public/assets/css/002-layout/003-flex-table.styl",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/public/partials/article.html",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/public/partials/navitem.html",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/public/partials/navMenu.html",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/public/partials/sidebar.html",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/public/assets/js/demo/draggie.js",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/public/assets/css/standard.main.styl",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/public/assets/css/flex.main.css",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/public/assets/css/001-brand/001-brand.styl",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/public/assets/css/001-brand/006-form.styl",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/public/assets/css/standard.main.css",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/public/partials/banner.html",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/server.js",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/public/partials/site-subTitle.html",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/public/assets/css/003-components/003-flex-form.styl",
+		"/Users/franktaylor/Library/Application Support/Sublime Text 2/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/public/assets/css/001-brand/index.styl",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/public/partials/siteTitle.html",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/public/partials/branding.html",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/public/app/angles.js",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/app/navigation.js",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/app/token.js",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/app/crocodoc.js",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/the-boss.sublime-project",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/assets/css/vars.styl",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/assets/css/flex/001-brand.styl",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/assets/css/flex/flex.main.styl",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/index.html",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/flex-template.html",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/assets/css/nib/index.styl",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/assets/css/flex/flex.main.css",
+		"/Users/franktaylor/Dropbox/Google Drive/Tahzoo/Nationwide-Inside/Inside Demo/static/media/responsive/base/100-header.styl",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/package.json",
+		"/Users/franktaylor/Dropbox/Google Drive/Web Projects/the-boss/app.js",
+		"/Users/franktaylor/Dropbox/Google Drive/miscreant-repo/combat-static/NethStaticCombatDemo/static/css/netherynth.css",
+		"/Users/franktaylor/Dropbox/Google Drive/miscreant-repo/combat-static/NethStaticCombatDemo/Gruntfile.js",
+		"/Users/franktaylor/Dropbox/Google Drive/miscreant-repo/combat-static/NethStaticCombatDemo/static/css/012-jquery-ui.styl",
+		"/Users/franktaylor/Dropbox/Google Drive/miscreant-repo/combat-static/NethStaticCombatDemo/static/css/100-panels/100-vars.styl",
+		"/Users/franktaylor/Dropbox/Google Drive/miscreant-repo/combat-static/NethStaticCombatDemo/package.json",
+		"/Users/franktaylor/Dropbox/Google Drive/miscreant-repo/combat-static/NethStaticCombatDemo/static/css/100-panels/124-neth-panel-combat.styl",
+		"/Users/franktaylor/Dropbox/Google Drive/miscreant-repo/combat-static/NethStaticCombatDemo/static/css/000-vars.styl"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"/Users/franktaylor/Dropbox/Google Drive/miscreant-repo/combat-static/NethStaticCombatDemo/static/css",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"inactiveGreen",
+			"delContent",
+			"flash",
+			"console",
+			"handleProjectLoad",
+			"<kbd>ctrl</kbd>+<kbd>shift</kbd>",
+			"ctrl",
+			"shift",
+			"ctrl",
+			"`r`",
+			"s`",
+			"`ctrl",
+			"`ctrl`",
+			"console",
+			"xmlHttp",
+			"console",
+			"application",
+			"keymaps",
+			"js.slice",
+			"downloadContent",
+			"fieldset__button--clone",
+			"clone",
+			"cloneInputs",
+			"inputCloners",
+			"addedClonedInputs",
+			"e.target",
+			"duplicateParent",
+			"duplicateEl",
+			"inputWraps",
+			"cloneInputs",
+			"cloneInput",
+			"fileUploads",
+			"fieldset__wrapper",
+			"draggable=\"true\"",
+			"downloadContent",
+			"buildBlob",
+			"                height: 75%;\n",
+			"init",
+			"js-flash",
+			"e.target",
+			"runMap",
+			"flashSaved",
+			"console",
+			"updateCtrls",
+			"createLibSelect",
+			"getSelectedLibs",
+			"createLibSelect",
+			"onlineState",
+			"console",
+			"externalJS",
+			"wrapBlobParts",
+			"createRawParts",
+			"projData",
+			"projectName",
+			"projectData",
+			"projectName",
+			"loadProject",
+			"updateContent",
+			"loadProject",
+			"updateContent",
+			"buildBlob",
+			"wrapBlobParts",
+			"updateContent",
+			"wrapBlobParts",
+			"createRawParts",
+			"getGoogleLibs",
+			"getProjects",
+			"getExternalLibs",
+			"bindLabelEvents",
+			"isChecked",
+			"<legend",
+			"legend",
+			".toString()",
+			"createProjectSelectOption",
+			"createSelectOption",
+			"createProject",
+			"prepareJS",
+			"prepareExternalJS",
+			"projectName",
+			"projectField",
+			"downloadContent",
+			"            min-height: 9.25em;\n            max-height: 20vh;",
+			"updateContent",
+			"helpers.updateContent",
+			"updateContent",
+			"buildBlob",
+			"updateSandboxCtrls",
+			"updateEditors",
+			"updateProjectName",
+			"createProject",
+			"downloadParts",
+			"handleProjectSelect",
+			"updateContent",
+			"loadedParts",
+			"getProjects",
+			"buildBlob",
+			"els.",
+			"els",
+			"wrapProjectParts",
+			"updateContent",
+			"loadedParts",
+			"updateContent",
+			"prepareResult",
+			"            min-height: 7.25em;",
+			"updating",
+			"1200",
+			"500",
+			"saveMap",
+			"projecSelect",
+			"border-bottom:1px solid activePeach",
+			"inactiveHeadingColor",
+			"headingColor",
+			"HeadingColor",
+			"headingColor",
+			"HeadingColor",
+			"headingColor",
+			"activeGreen",
+			"inactiveGreen",
+			"standardGreen",
+			"buttonColor",
+			"border-color: #777;",
+			"bgColor",
+			"7.25em;",
+			"#333",
+			"mainColor",
+			"#091927",
+			"#78c382",
+			"78c382"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			".jpeg",
+			"k-146.jpg",
+			"adverts/146.jpg",
+			"146.jpg",
+			"http://placekitten.com/g/151/146",
+			"colorGradientBackgroundPanelSecondaryHeader",
+			"colorGradientBackgroundStatusHeader",
+			"colorGradientBackgroundMainHeader",
+			"colorGradientBackgroundMainHeaderA--Before",
+			"colorGradientBackgroundCombatHeader",
+			"colorBackgroundUIPanels",
+			"",
+			" ",
+			";",
+			" ",
+			"",
+			"space",
+			"",
+			"</aside>",
+			"<article><div class=\"content\">",
+			"</div><aside class=\"price\">",
+			"<article><div class=\"content\">",
+			"</div>",
+			"<div class=\"product\"><article>",
+			"<figure class=\"price\">",
+			"../../img/",
+			"@",
+			" ",
+			"https://www.titaninsurance.com/titan/",
+			" ",
+			"tahzooed",
+			"moved",
+			"../../img",
+			"../img",
+			"paceauxnotes",
+			"'demo/ajax",
+			"  <li class=\"lp-icon\"><a href=\"#\" title=\"Channel Base Packages\"><span>Credit Cards</span></a></li>\n                                        <li class=\"lp-icon\"><a href=\"#\" title=\"Mas Packages\"><span>ATM Terminals</span></a></li>\n                                        <li class=\"cp-icon\"><a href=\"#\" title=\"Premiums\"><span>Bonds</a></span></li>\n                                        <li class=\"lp-icon\"><a href=\"#\" title=\"Sports Packages\"><span>Checks</span></a></li>\n                                        <li class=\"cp-icon\"><a href=\"#\" title=\"PPV &amp; DTV Cinema\"><span>Compliance</span></a></li>\n                                        <li class=\"cp-icon\"><a href=\"#\" title=\"A la Carte\"><span>Facilities</span></a></li>\n                                        <li class=\"lp-icon\"><a href=\"#\" title=\"Incl. Programming\"><span>Safety &amp; Security</span></a></li>\n                                        <li class=\"cp-icon\"><a href=\"#\" title=\"Whole Home DVR\"><span>General Ledger</span></a></li>",
+			" <ul class=\"quick-link-list\">\n                                    <li><a href=\"#\" class=\"ql-rebate-tool\" title=\"KeyNet\">\n                                            <span>KeyNet</span></a></li>\n                                    <li><a href=\"#\" class=\"ql-channel-lineup\" title=\"Key.com\">\n                                            <span>Key.com</span></a></li>\n                                    <li><a href=\"#\" class=\"ql-sell-premium-tool\" title=\"Product Guide\">\n                                            <span>Product Guide</span></a></li>\n                                    <li><a href=\"#\" class=\"ql-ecf-tool\" title=\"DocBox\">\n                                            <span>DocBox</span></a></li>\n                                    <li><a href=\"#\" class=\"ql-package-compare-tool\" title=\"Package Compare\"><!--that's what she said-->\n                                            <span>Your Systems</span></a></li><!--also what she said-->\n                                        <li><a href=\"#\" class=\"ql-phone-list\" title=\"Contact List\">\n                                            <span>Contact List</span></a></li>\n                                    </ul>",
+			"Branch",
+			"ATM Support",
+			"eManuals",
+			"ee3524"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.csslint_result_view":
+	{
+		"height": 118.0
+	},
+	"output.csspecific":
+	{
+		"height": 118.0
+	},
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.jslint_result_view":
+	{
+		"height": 118.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"README.md"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 131.0,
+	"status_bar_visible": true
+}

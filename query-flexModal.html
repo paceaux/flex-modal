@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js">
+    <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+        <link rel="stylesheet" href="css/flexModal.css">
+    </head>
+    <body>
+            <figure id="video" class="video">
+                <div id="videoObj">
+                    <script type="text/javascript" language="javascript" src="http://nationwide.dist.sdlmedia.com/Distributions/embed/?o=226D89CE-3C1A-4D53-922D-49DE66787DD4
+                    "></script>
+                </div>
+                <figcaption>
+                <h2>Article (Video)</h2>
+                </figcaption>
+            </figure>
+            <script src="js/flexModal.plugin.js"></script>
+            <script type="text/javascript" contenteditable>
+            function getParameterByName(name) {
+                name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+                var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+                    results = regex.exec(window.location.search);
+                return results == null ? "" : decodeURIComponent(results[1].replace(/\+/g," "));
+            }
+            if (window.location.search.length > 0) {
+                var elId = getParameterByName('modal'),
+                $el = $('#' + elId);
+                $el.flexModal({
+                    trigger: 'query',
+                    src: "#video"
+                });
+            }
+            $('.openModal').flexModal();
+            </script>
+        </body>
+    </html>
