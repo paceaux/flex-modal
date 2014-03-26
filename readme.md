@@ -1,4 +1,4 @@
-# Flex Modal: A ridiculously flexible modal window #
+# flexModal: A ridiculously flexible modal window #
 
 A modal window flexible enough to work with your Content Management System and your content authors.
 
@@ -15,8 +15,8 @@ http://jsfiddle.net/Paceaux/wvsY2/embedded/result/
 
 A modal window does two things to the end user: 
 
- 1 It will put a semi transparent overlay on the screen that covers the content
- 2 it will draw a box in the center of the screen
+1. It will put a semi transparent overlay on the screen that covers the content
+2. it will draw a box in the center of the screen
 
 This modal window isn't much different. You should see some transparent black background, and then you should get a white box that's centered.
 
@@ -33,8 +33,8 @@ You can set *any* properties of this modal window **from the HTML**, the jQuery 
 
 ## Using flexModal ##
 Flex, modal, just like any other modal window, comprises of two basic steps: 
- 1 Designate what will trigger the modal
- 2 Designate the content that flexModal will show
+1. Designate what will trigger the modal
+2. Designate the content that flexModal will show
 
 ### Triggering the Modal ###
 flexModal is designed to be triggered by something that the end user does, whether it's clicking, hovering, or even visiting a page with a query string in the URL. flexModal's default behavior is to assume the click event is what fires it.  
@@ -79,17 +79,17 @@ if (window.location.search.length > 0) {
 ````
 ### Setting the modal content
 You have two ways to set content in flexModal:
- 1 Content on the Page
- 2 iframe
+1. Content on the Page
+2. iframe
 
 ### Setting Content on the Page
 
 The content of the modal can be wrapped with a flew `class`es.
 
- 1 Wrap that content with a `class` called `modal__container`
- 2 Give the `modal__container` an `id`
- 3 Inside of `modal__container`, wrap the content with 'modal__content'
- 4 Add a title if you feel it appropriate
+1. Wrap that content with a `class` called `modal__container`
+2. Give the `modal__container` an `id`
+3. Inside of `modal__container`, wrap the content with 'modal__content'
+4. Add a title if you feel it appropriate
 
 flexModal.css will do the job of hiding the content if you follow this approach. 
 
@@ -140,7 +140,7 @@ If you want to trigger an iframe, then the modal window will use the src or href
 `"trigger": "['event'/'query']"` Text value which is the name of an event, or the word "query". If it is a query, it will rely on the src attribute to determine which `id` to display
 
 
-### Applying the configuration ### 
+### Applying the configuration
 flexModal got its name because it's flexible in *how* you configure it. That's because you can configure it from JavaScript or HTML!
 
 
@@ -150,7 +150,7 @@ If you want to configure flexModal from the HTML, this involves using an attribu
 You can  provide parameters within `data-modal` that can set the parameters controls for your modal. As you are creating data-modal parameters, be mindful that you must use well-formed JSON. 
 
 
-** A note on writing JSON**
+**A note on writing JSON**
 
 + Everything is a key/value pair. The first item is the Key, the thing after the colon ( :) is the value
 + Wrap everything in quotes ("")
